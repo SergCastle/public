@@ -5,7 +5,7 @@ from aiogram.utils.markdown import hlink
 import markups as nav
 from db import Database
 
-TOKEN = '5003470339:AAGwZ7ivnije48fJhdT-LmxVRW5TXvEYHPk'
+TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
